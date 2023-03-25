@@ -1,0 +1,42 @@
+.up{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .left-real{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        width: 50%;
+        height: 100%;
+        .abc{
+            margin-left: 40px;
+            width: 50%;
+            height: 100%;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            h1{
+                font-family: 'Merriweather';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 26px;
+                line-height: 33px;
+                color: #B1B9D8;
+                margin-left: 3px;
+            }
+        }
+    }
+    .right-real{
+        width: 500px;
+        height: 100%;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        img{
+            width: 130px;
+            cursor: pointer;
+        }
+    }
+}

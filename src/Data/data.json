@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "source":"./imgs/salad.svg",
+        "name":"Cuisine",
+        "members":"36 members"
+    },
+    {
+        "id":2,
+        "source":"./imgs/color.svg",
+        "name":"Art",
+        "members":"9 members"
+    },
+    {
+        "id":3,
+        "source":"./imgs/idman.svg",
+        "name":"Workout",
+        "members":"27 members"
+    },
+    {
+        "id":4,
+        "source":"./imgs/xbox.svg",
+        "name":"Gaming",
+        "members":"105 members"
+    },
+    {
+        "id":5,
+        "source":"./imgs/mountaun.svg",
+        "name":"Hiking",
+        "members":"97 members"
+    },
+    {
+        "id":6,
+        "source":"./imgs/girl.svg",
+        "name":"Yoga",
+        "members":"65 members"
+    }
+]

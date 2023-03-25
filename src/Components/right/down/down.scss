@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap');
+.down{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    .create{
+        width: 260px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 40px;
+        img{
+            width: 260px;
+        }
+    }
+    .card{
+        width: 260px;
+        height: 314px;
+        background: #1A2036;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 40px;
+        box-shadow: 0px 10px 25px -15px #111628;
+        border-radius: 10px;
+        img{
+            width: 120px;
+            margin-bottom: 20px;
+            background: #1A2036;
+        }
+        .yazilar-heyatlar{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background: #1A2036;
+            h4{
+                color: white;
+                background: #1A2036;
+                font-family: 'Merriweather';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 20px;
+                line-height: 23px;
+            }
+            p{
+                color: white; 
+                font-family: 'IBM Plex Sans';
+                font-style: normal;
+                font-weight: 500;
+                background: #1A2036;
+                font-size: 14px;
+                line-height: 18px;        
+            }
+        }
+    }
+}
