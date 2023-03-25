@@ -7,4 +7,4 @@
 
 ### `git clone link`
 
-2.# MENDEN HALALLIQ ISDE
+2.**MENDEN HALALLIQ ISDE
